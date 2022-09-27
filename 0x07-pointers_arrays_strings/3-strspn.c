@@ -1,4 +1,4 @@
-# include "main.h"
+#include "main.h"
 
 /**
  *
@@ -7,18 +7,25 @@
  */
 unsigned int _strspn(char *s, char *accept)
 {
-	unsigned int bytes = 0;
-	int con;
-	while (*s);
+
+	int i, j, k, flag;
+
+	k = 0;
+	for(i = 0;s[i] != '\0';i++)
 	{
-		for (con = 0;accept[con]; con++)
+		flag = 0;
+		for (j = 0; accept[j] != '\0';j++)
 		{
-			if (*s == accept[con])
+			if(s[i] == accept[j])
 			{
-				bytes++;
-				break;
+				k++;
+				flag = 1;
 			}
-			else if (accept[con + 1] == '\0')
-				return(bytes);
+			if (flag = 0)
+			{
+				return (k);
+			}
 		}
+	}
+	return (0);
 }
