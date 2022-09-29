@@ -1,4 +1,5 @@
 #include "main.h"
+#include <string.h>
 
 /*
  * _puts_recursion - is function print a sting followed by a new line
