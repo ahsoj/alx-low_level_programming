@@ -1,5 +1,7 @@
 #include "main.h"
 
+int _sqrt(int n, int s);
+
 /**
  * find_sqrt - finds the natural srqt of an inputted number.
  * @num: the number to find the sqrt of
