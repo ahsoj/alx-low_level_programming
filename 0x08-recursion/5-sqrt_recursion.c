@@ -12,14 +12,14 @@ int _sqrt_recursion(int n)
 {
 	if (n <= 1)
 		return (n);
-	return (_sqroot(0, n));
+	_sqrt(0, n);
 }
 
-int _sqroot (int n, int s)
+int _sqrt(int n, int s)
 {
 	if (n > s / 2)
 		return (-1);
 	if (n * n == s)
 		return (n);
-	return (_sqroot(n + 1, s);
+	_sqrt(n + 1, s);
 }
