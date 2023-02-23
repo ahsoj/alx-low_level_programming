@@ -1,3 +1,4 @@
+![](./giphy-2.gif)
 Resources
 
 Read or watch:
