@@ -1,16 +1,18 @@
-![](./giphy.gif)
-Resources
+![](./giphy-2.gif)
 
-Read or watch:
+
+# Resources
+
+# Read or watch:
 
     Makefile
     Installing the make utility
     make-official documentation
 
-Learning Objectives
+# Learning Objectives
 
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
-General
+# General
 
     What are make, Makefiles
     When, why and how to use Makefiles
@@ -19,15 +21,15 @@ General
     What are the most common / useful rules
     What are variables and how to set and use them
 
-Copyright - Plagiarism
+# Copyright - Plagiarism
 
     You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
     You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
     You are not allowed to publish any content of this project.
     Any form of plagiarism is strictly forbidden and will result in removal from the program.
 
-Requirements
-General
+# Requirements
+# General
 
     Allowed editors: vi, vim, emacs
     OS: Ubuntu 20.04 LTS
@@ -36,7 +38,7 @@ General
     All your files should end with a new line
     A README.md file, at the root of the folder of the project, is mandatory
 
-More Info
-Files
+# More Info
+# Files
 
 In the following tasks, we are going to use these files. We want to compile these only.
