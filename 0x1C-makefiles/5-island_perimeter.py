@@ -1,11 +1,13 @@
 #!/usr/bin/python3
+"""returns the perimeter of the island described in grid"""
 
 
 def island_perimeter(grid):
     """
-        grid: Listint
-        0: represent a water zone
-        1: represent a land zone
+        grid: Listint \
+        0: represent a water zone \
+        1: represent a land zone \
+        return : perimeter of grid
     """
     width = len(grid[0])
     height = len(grid)
