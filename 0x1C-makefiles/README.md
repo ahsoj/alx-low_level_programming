@@ -1,4 +1,4 @@
-![](./giphy.gif)
+![](giphy.gif)
 Resources
 
 Read or watch:
