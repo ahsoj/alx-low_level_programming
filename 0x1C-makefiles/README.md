@@ -1,4 +1,3 @@
-![](giphy.gif)
 Resources
 
 Read or watch:
