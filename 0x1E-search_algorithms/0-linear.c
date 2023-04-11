@@ -1,13 +1,13 @@
 #include "search_algos.h"
 
 /**
- * linear_search - Search for a value in an array of integers
- * @array: Apointer to the first element of the aray search
- * @size: number of index's in the array
- * @value: value to search for
- *
- * Return: NULL if the value isn't present, else -1
- */
+  * linear_search - Search for a value in an array of integers
+  * @array: Apointer to the first element of the aray search
+  * @size: number of index's in the array
+  * @value: value to search for
+  *
+  * Return: NULL if the value isn't present, else -1
+  */
 
 int linear_search(int *array, size_t size, int value) {
     size_t i;
