@@ -1,12 +1,14 @@
 #include "search_algos.h"
 
 /**
-  * binary-search - search for a calue in a stored arrays
+  * binary_search - search for a calue in a stored arrays
   * @array: pointer to the first element of the array to search
   * @size: number of elements in the arrays
   * @value: value to search for
   *
   * Return: NULL if value is not present else -1
+  * 
+  *
   */
 
 int binary_search(int *array, size_t size, int value)
