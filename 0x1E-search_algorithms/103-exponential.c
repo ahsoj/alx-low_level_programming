@@ -1,9 +1,10 @@
 #include "search_algos.h"
 
 /**
-  * binary-search - search for a calue in a stored arrays
+  * _binary_search - search for a calue in a stored arrays
   * @array: pointer to the first element of the array to search
-  * @size: number of elements in the arrays
+  * @left: number
+  * @right: number
   * @value: value to search for
   *
   * Return: NULL if value is not present else -1
